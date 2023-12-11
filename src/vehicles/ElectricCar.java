@@ -16,18 +16,6 @@ public class ElectricCar extends Vehicle {
         this.batteryCapacity = batteryCapacity;
     }
 
-    @Override
-    public String toString() {
-        return "ElectricCar{" +
-                "batteryCapacity=" + batteryCapacity +
-                ", brand='" + brand + '\'' +
-                ", model='" + model + '\'' +
-                ", year=" + year +
-                ", price=" + price +
-                ", color='" + color + '\'' +
-                '}';
-    }
-
     public void start() {
         System.out.println("System switched on.");
     }
@@ -72,5 +60,12 @@ public class ElectricCar extends Vehicle {
             this.color = color;
             return null;
         }
+    }
+
+    @Override
+    public String toString() {
+        return "ElectricCar{" +
+                "batteryCapacity=" + batteryCapacity +
+                "} " + super.toString();
     }
 }

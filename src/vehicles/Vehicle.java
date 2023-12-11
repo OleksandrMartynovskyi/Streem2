@@ -56,4 +56,16 @@ public abstract class Vehicle {
     public void setColor(String color) {
         this.color = color;
     }
+
+    @Override
+    public String toString() {
+        final StringBuffer sb = new StringBuffer("Vehicle{");
+        sb.append("brand='").append(brand).append('\'');
+        sb.append(", model='").append(model).append('\'');
+        sb.append(", year=").append(year);
+        sb.append(", price=").append(price);
+        sb.append(", color='").append(color).append('\'');
+        sb.append('}');
+        return sb.toString();
+    }
 }
