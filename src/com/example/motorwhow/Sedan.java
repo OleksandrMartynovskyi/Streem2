@@ -1,4 +1,4 @@
-package vehicles;
+package com.example.motorwhow;
 
 public class Sedan extends Vehicle{
     public Sedan(String brand, String model, int year, double price, String color) {

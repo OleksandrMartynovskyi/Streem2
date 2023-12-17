@@ -1,4 +1,4 @@
-package vehicles;
+package com.example.motorwhow;
 
 public class Truck extends Vehicle {
 

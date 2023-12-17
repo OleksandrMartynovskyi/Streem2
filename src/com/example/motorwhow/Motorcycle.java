@@ -1,19 +1,8 @@
-package vehicles;
+package com.example.motorwhow;
 
 public class Motorcycle extends Vehicle implements Movable {
     public Motorcycle(String brand, String model, int year, double price, String color) {
         super(brand, model, year, price, color);
-    }
-
-    @Override
-    public String toString() {
-        return "Motorcycle{" +
-                "brand='" + brand + '\'' +
-                ", model='" + model + '\'' +
-                ", year=" + year +
-                ", price=" + price +
-                ", color='" + color + '\'' +
-                '}';
     }
 
     @Override

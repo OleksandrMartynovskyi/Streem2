@@ -1,0 +1,3 @@
+Car,Ford,Focus,2018,20000,Red
+Truck,Chevrolet,Silverado,2020,30000,Blue
+Motorcycle,Yamaha,MT-09,2021,10000,Black

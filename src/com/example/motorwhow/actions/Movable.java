@@ -1,4 +1,4 @@
-package vehicles.actions;
+package com.example.motorwhow.actions;
 
 public interface Movable {
     void moveForward();

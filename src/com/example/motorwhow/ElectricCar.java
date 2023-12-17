@@ -1,11 +1,10 @@
-package vehicles;
+package com.example.motorwhow;
 
 public class ElectricCar extends Vehicle {
     private int batteryCapacity;
 
     public ElectricCar(String brand, String model, int year, double price, String color, int batteryCapacity) {
         super(brand, model, year, price, color);
-        int capacity = this.batteryCapacity;
     }
 
     public int getBatteryCapacity() {
