@@ -1,4 +1,4 @@
-package com.example.motorwhow;
+package main.example.motorwhow;
 
 public class Motorcycle extends Vehicle implements Movable {
     public Motorcycle(String brand, String model, int year, double price, String color) {

@@ -1,4 +1,4 @@
-package com.example.motorwhow.actions;
+package main.example.motorwhow;
 
 public interface Movable {
     void moveForward();

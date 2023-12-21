@@ -1,4 +1,4 @@
-package com.example.motorwhow;
+package main.example.motorwhow;
 
 public abstract class Vehicle {
     protected String brand;

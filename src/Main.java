@@ -1,6 +1,6 @@
-import com.example.motorwhow.Car;
-import com.example.motorwhow.Motorcycle;
-import com.example.motorwhow.Truck;
+import main.example.motorwhow.Car;
+import main.example.motorwhow.Motorcycle;
+import main.example.motorwhow.Truck;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
-        String filePath = args.length > 0 ? args[0] : "src/main/resources/vehicles.txt";
+        String filePath = args.length > 0 ? args[0] : "src/com/resources/homework.txt";
         readVehiclesFromFile(filePath);
     }
 

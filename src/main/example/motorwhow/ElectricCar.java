@@ -1,4 +1,4 @@
-package com.example.motorwhow;
+package main.example.motorwhow;
 
 public class ElectricCar extends Vehicle {
     private int batteryCapacity;
