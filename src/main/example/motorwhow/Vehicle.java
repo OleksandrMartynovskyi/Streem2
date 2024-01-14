@@ -1,6 +1,7 @@
 package main.example.motorwhow;
 
-public abstract class Vehicle {
+public class Vehicle {
+    protected int id;
     protected String brand;
     protected String model;
     protected int year;
@@ -8,7 +9,8 @@ public abstract class Vehicle {
     protected String color;
 
     // Конструктор
-    public Vehicle(String brand, String model, int year, double price, String color) {
+    public Vehicle(int id, String brand, String model, int year, double price, String color) {
+        this.id = id;
         this.brand = brand;
         this.model = model;
         this.year = year;
@@ -16,7 +18,11 @@ public abstract class Vehicle {
         this.color = color;
     }
 
+    public Vehicle(String brand, String model, int year, double price, String color) {
+    }
+
     // Аксесори (гетери та сетери)
+    public int getId() { return id;}
     public String getBrand() {
         return brand;
     }
@@ -59,13 +65,13 @@ public abstract class Vehicle {
 
     @Override
     public String toString() {
-        final StringBuffer sb = new StringBuffer("Vehicle{");
-        sb.append("brand='").append(brand).append('\'');
-        sb.append(", model='").append(model).append('\'');
-        sb.append(", year=").append(year);
-        sb.append(", price=").append(price);
-        sb.append(", color='").append(color).append('\'');
-        sb.append('}');
-        return sb.toString();
+        return "Vehicle{" +
+                "id=" + id +
+                ", brand='" + brand + '\'' +
+                ", model='" + model + '\'' +
+                ", year=" + year +
+                ", price=" + price +
+                ", color='" + color + '\'' +
+                '}';
     }
 }

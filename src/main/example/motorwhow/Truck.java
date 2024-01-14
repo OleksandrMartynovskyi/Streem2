@@ -9,6 +9,7 @@ public class Truck extends Vehicle {
     @Override
     public String toString() {
         return "Truck{" +
+                "id='" + id + '\'' +
                 "brand='" + brand + '\'' +
                 ", model='" + model + '\'' +
                 ", year=" + year +
