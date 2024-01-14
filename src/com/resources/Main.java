@@ -17,7 +17,6 @@ public class Main {
 
         long startTime, endTime, duration;
 
-        // Імпорт даних із файлу
         startTime = System.nanoTime();
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line;
@@ -39,15 +38,15 @@ public class Main {
         duration = endTime - startTime;
         System.out.println("Час імпорту даних із файлу: " + duration + " наносекунд");
 
-        // Обробка даних та створення об'єктів
+
         startTime = System.nanoTime();
-        // Місце для обробки даних, якщо потрібно
+
 
         endTime = System.nanoTime();
         duration = endTime - startTime;
         System.out.println("Час обробки даних та створення об'єктів: " + duration + " наносекунд");
 
-        // Три дії з потоками
+
         startTime = System.nanoTime();
 
         vehicles.stream()
@@ -66,7 +65,7 @@ public class Main {
         duration = endTime - startTime;
         System.out.println("Загальний час трьох дій з потоками: " + duration + " наносекунд");
 
-        // Визначення різниці між двома датами
+
         LocalDate dateBefore = LocalDate.of(2023, 12, 1);
         LocalDate dateAfter = LocalDate.of(2024, 2, 1);
 
