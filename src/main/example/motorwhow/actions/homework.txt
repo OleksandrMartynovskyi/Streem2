@@ -1,0 +1,100 @@
+1,Porsche,A4,2005,50443.21,Green
+2,Audi,Skyline,2019,97878.83,Green
+3,Nissan,A4,2015,90115.05,White
+4,Porsche,Civic,2001,81827.71,White
+5,Porsche,C-Class,2022,51137.68,Black
+6,Porsche,C-Class,2015,61347.32,Purple
+7,Tesla,Model S,2022,21685.07,Red
+8,Ford,C-Class,2016,46997.39,Yellow
+9,Toyota,C-Class,2002,87121.08,White
+10,Nissan,X5,2014,60990.72,Blue
+11,Mercedes,X5,2013,25945.39,Purple
+12,Toyota,Civic,2012,60099.38,Orange
+13,Toyota,Golf,2009,60025.99,Green
+14,Ford,911,2012,80235.41,Brown
+15,Porsche,Skyline,2020,40090.58,Yellow
+16,Volkswagen,Model X,2017,34873.82,Silver
+17,Porsche,911,2006,65190.67,Blue
+18,Volkswagen,Model X,2003,57437.4,White
+19,Mercedes,Golf,2017,89507.99,Blue
+20,Tesla,Model X,2012,68670.67,Yellow
+21,Porsche,Civic,2008,56262.16,Black
+22,Nissan,Model S,2005,21309.89,Red
+23,Audi,Golf,2015,44776.91,Silver
+24,Nissan,Civic,2012,50860.82,Yellow
+25,Nissan,Skyline,2007,50568.35,Purple
+26,Toyota,Skyline,2008,93632.02,Yellow
+27,Toyota,Civic,2019,94155.64,Green
+28,Toyota,Mustang,2018,38519.21,Red
+29,Audi,Skyline,2003,97556.87,Blue
+30,BMW,Mustang,2018,46103.22,Black
+31,Toyota,Skyline,2018,40688.62,Yellow
+32,Mercedes,Model S,2011,62605.5,Brown
+33,Nissan,X5,2024,57787.46,Brown
+34,BMW,911,2007,51910.95,Green
+35,Nissan,A4,2009,26912.99,White
+36,Audi,Skyline,2010,71718.14,Blue
+37,Ford,Civic,2004,35279.71,Orange
+38,BMW,C-Class,2004,81333.74,Yellow
+39,Nissan,Mustang,2010,70828.38,Blue
+40,Porsche,Mustang,2001,42432.1,White
+41,Toyota,C-Class,2023,75478.38,Brown
+42,BMW,X5,2011,77075.38,Silver
+43,Audi,X5,2000,98791.17,Green
+44,Toyota,C-Class,2009,50376.37,Orange
+45,BMW,Skyline,2001,95607.03,Black
+46,Toyota,A4,2019,86918.29,Purple
+47,Ford,X5,2016,57489.07,Black
+48,BMW,Model X,2006,69297.23,Black
+49,Nissan,Model S,2005,63976.41,Brown
+50,Mercedes,911,2021,20693.25,Red
+51,Honda,C-Class,2023,83995.13,Red
+52,Toyota,C-Class,2016,79552.16,Silver
+53,Nissan,911,2006,23630.43,Brown
+54,Porsche,Golf,2006,71790.02,Brown
+55,BMW,Civic,2014,51559.17,Silver
+56,Honda,X5,2017,74779.17,Silver
+57,Honda,Skyline,2009,47131.7,Purple
+58,Mercedes,Mustang,2019,36497.57,Green
+59,Honda,Model X,2002,45442.05,Orange
+60,BMW,Golf,2016,98185.37,Red
+61,Audi,Model S,2024,23230.88,Black
+62,Tesla,A4,2011,54216.85,Yellow
+63,Ford,Golf,2006,71575.21,Black
+64,Mercedes,Model S,2007,38334.7,Black
+65,BMW,C-Class,2005,87408.26,Silver
+66,Audi,A4,2021,50326.61,Orange
+67,Nissan,Mustang,2005,57873.02,Blue
+68,Nissan,X5,2010,51178.05,Red
+69,BMW,Golf,2001,66572.95,White
+70,Porsche,911,2010,27698.06,Silver
+71,Ford,Skyline,2003,59848.88,Yellow
+72,BMW,Model X,2002,49169.72,Green
+73,Honda,Model X,2014,82551.67,Purple
+74,Volkswagen,Mustang,2001,47433.37,Orange
+75,BMW,Civic,2009,79154.63,Yellow
+76,Volkswagen,Golf,2008,63943.29,Purple
+77,Toyota,Model X,2020,26339.23,Yellow
+78,BMW,Golf,2011,97836.63,Yellow
+79,BMW,X5,2019,30931.11,Black
+80,Tesla,Golf,2016,29922.23,Orange
+81,Audi,Skyline,2007,52538.81,Green
+82,BMW,A4,2015,66148.64,Purple
+83,Nissan,Golf,2012,97912.0,Black
+84,BMW,Mustang,2008,21731.26,Red
+85,Ford,Golf,2003,38079.12,Black
+86,Mercedes,C-Class,2010,55777.82,Purple
+87,BMW,Golf,2004,32888.32,Green
+88,Tesla,911,2005,87981.81,Green
+89,Honda,Civic,2018,89516.91,Purple
+90,BMW,Model S,2017,42449.62,Blue
+91,Honda,Golf,2011,80197.57,Blue
+92,Audi,Skyline,2020,39558.21,Purple
+93,Tesla,Golf,2010,49225.57,White
+94,Ford,X5,2020,72556.52,Purple
+95,Ford,Civic,2020,82929.71,Red
+96,Audi,C-Class,2004,97355.83,Green
+97,Tesla,Skyline,2003,84693.18,Orange
+98,Audi,A4,2006,42318.61,Red
+99,Ford,Model S,2000,83285.54,Black
+100,BMW,Skyline,2003,20250.28,White
